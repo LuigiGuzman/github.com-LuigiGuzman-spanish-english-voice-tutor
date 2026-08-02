@@ -1,0 +1,6 @@
+gradio
+torch
+transformers
+peft
+openai-whisper
+gTTS
